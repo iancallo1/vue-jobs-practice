@@ -1,10 +1,8 @@
 # vue-jobs-2025
 
 This template should help get you started developing with Vue 3 in Vite.
+Guide By Traversy Media: https://www.youtube.com/watch?v=VeNfHj6MhgA
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
 ## Customize configuration
 
