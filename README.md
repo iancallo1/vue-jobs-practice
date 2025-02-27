@@ -1,7 +1,7 @@
 # vue-jobs-2025
 
 This template should help get you started developing with Vue 3 in Vite.
-Guide By Traversy Media: https://www.youtube.com/watch?v=VeNfHj6MhgA
+#### Guide By Traversy Media: https://www.youtube.com/watch?v=VeNfHj6MhgA
 
 
 ## Customize configuration
